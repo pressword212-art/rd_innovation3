@@ -1,0 +1,1742 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+       /* body start */
+body {
+    padding-top: 59px;
+}  
+  /* header start */
+.logo img {
+    width: 170px !important;
+}
+.menu {
+    text-align: end;
+}
+.submenu {
+    width: 100%;
+    left: 0;
+    top: 41% !important;
+}
+.submenu_2{
+    top: 58% !important;
+}
+.submenu_3{
+    top: 90% !important;
+}
+.menu>ul>li {
+    margin-bottom: 10px;
+}
+.submenuitems h3 {
+    font-size: 16px;
+}
+.submenuitems ul li {
+    font-size: 15px;
+}
+.menu>ul>li a {
+    font-size: 15px;
+}
+.submenuitems {
+    padding-top: 10px;
+    flex-basis: 80%;
+}
+.submenuitems ul{
+    padding-left: 0;
+}
+.navbar-toggler:focus {
+    box-shadow: none; 
+}
+/* banner start */
+.banner{
+    text-align: center;
+    padding: 35px 0;
+}
+.b_text h1 {
+    font-size: 21px;
+    margin: 0px 0px 20px 0px;
+    line-height: 45px;
+}
+.b_text p {
+    font-size: 15px;
+    margin-bottom: 50px;
+}
+.b_form {
+    font-size: 13px;
+    margin-bottom: 15px;
+    padding: 10px 6px;
+    text-align: center;
+}
+.red_btn {
+    font-size: 13px !important;
+    padding: 11px 11px !important;
+}
+.b_btn {
+    margin-left: 0;
+}
+.b_video iframe {
+    width: 90%;
+    height: 225px;
+    margin-top: 45px;
+}
+/* award_winning start */
+.c_padding {
+    padding: 50px 0 65px;
+}
+.award_h2 {
+    margin-bottom: 5px;
+}
+.award_h3 {
+    font-size: 24px;
+    margin: 8px 0 15px;
+}
+.award_p {
+    font-size: 18px;
+}
+.award_box {
+    padding: 28px;
+}
+.box_text h2 {
+    font-size: 28px;
+    margin: 0 0 20px 0;
+}
+.box_btn{
+    margin-left: 0;
+    text-align: center;
+}
+.box_btn1 {
+    padding: 13px 46px !important;
+    margin: 5px !important;
+}
+.blue_btn {
+    font-size: 14px !important;
+    padding: 13px 10px !important;
+    margin: 5px !important;
+}
+/* testimonial start */
+.testimonial_row1 p{
+    font-size: 14px;
+}
+.testimonial_row1 h2 {
+    font-size: 24px;
+}
+.testimonial_video iframe {
+    width: 95%;
+    height: 225px;
+}
+.r_item3{
+    display: none;
+}
+.r_item2{
+    display: none;
+}
+.review_item {
+    padding: 20px;
+}
+.review_item img {
+    width: 70px;
+}
+.btn_carosoul .blue_btn{
+    margin-top: 10px;
+}
+/* our expertise start */
+.cmn_h2 {
+    font-size: 22px;
+}
+.expertise_info {
+    text-align: center;
+    padding: 8px 8px 30px;
+}
+.ei_links{
+    text-align: center;
+}
+.ei_links a {
+    font-size: 13px;
+}
+.ei_a1{
+    margin-left: 10px;
+}
+.ei_a2 {
+    margin-right: 10px;
+}
+.expertise_video {
+    height: 105%;
+    padding: 5px;
+    margin-top: 15px;
+}
+/* counter start */
+.counter h1 {
+    font-size: 36px;
+    margin: 35px 0 10px;
+}
+.counter p{
+    font-size: 16px;
+}
+.advantage_item1 {
+    margin: 0;
+    text-align: center;
+}
+.advantage_item1 h3 {
+    font-size: 20px;
+    text-align: center;
+}
+.advantage_item1 h2 {
+    font-size: 25px;
+    text-align: center;
+    margin: 10px 0;
+}
+.advantage_item1 p {
+    font-size: 15px;
+    text-align: center;
+}
+.advantage_item1 button {
+    font-size: 12px !important;
+}
+.holinex_advantage_divider {
+    justify-content: center;
+}
+.holinex_advantage_line {
+    width: 40px;
+}
+.h_advantage i {
+    font-size: 35px;
+}
+.h_advantage h5 {
+    font-size: 21px;
+    margin: 15px 0 10px;
+}
+.h_advantage p {
+    font-size: 15px;
+}
+.box1, .box2, .box3, .box4 {
+    margin: 20px 0 0;
+}
+.advantage_item4, .advantage_item5{
+    margin: 25px 0 0;
+}
+/* certified_expert start */
+.certified_carosoul {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+/* offered_services start */
+.offered_services {
+    padding: 10px 0 10px;
+}
+.services_item a i {
+    font-size: 15px;
+    margin-right: 7px;
+}
+.services_item a p {
+    font-size: 15px;
+}
+/* footer_top start */
+.f_item{
+    text-align: center;
+    margin-top: 20px;
+}
+.f_item h2, .f_item h5 {
+    font-size: 20px;
+}
+.f_item a i {
+    margin: 0 5px;
+}
+.f_item p, .f_item p a {
+    font-size: 14px;
+}
+.f_item p {
+    margin-bottom: 5px;
+}
+/* footer start */
+.bottom_footer{
+  display: block;
+  text-align: center;
+}
+.bottom_footer p{
+    font-size: 13px;
+}
+.bottom_footer_p1{
+    margin-bottom: 10px !important;
+}
+/* team_member_banner_top start */
+.top_banner1 h1{
+    font-size: 26px;
+}
+.top_banner1 img {
+    height: 125px;
+}
+/* team_member start */
+.team_text h1{
+    font-size: 21px;
+    line-height: 30px;
+}
+.team_text h6 {
+    font-size: 18px;
+    margin: 0 0 10px !important;
+}
+.team_text p {
+    font-size: 14px;
+    margin: 0 0 20px;
+}
+.about_team h2 {
+    font-size: 21px;
+    margin: 0 0 10px;
+}
+.about_team1, .about_team2, .tech_expert {
+    margin: 0 0 30px;
+}
+.row .col-lg-4:last-child .tech_expert {
+    margin: 0;
+}
+.about_team1 h5, .about_team2 h5, .tech_expert h5 {
+    font-size: 20px;
+}
+.about_team1 h6, .about_team2 h6, .tech_expert h6 {
+    font-size: 15px;
+    margin: 0 0 10px;
+}
+.about_team1 p, .about_team2 p, .tech_expert p {
+    font-size: 14px;
+}
+/* about_banner */
+.a_banner {
+    padding: 40px 0 30px;
+}
+.ab_img {
+    margin-top: 30px;
+}
+.ab_img img {
+    width: 60%;
+}
+.ab_img h1 {
+    font-size: 22px;
+    margin: 10px 0;
+}
+.ab_img p {
+    font-size: 14px !important;
+}
+.ab_text {
+    text-align: center;
+}
+.ab_text h1 {
+    font-size: 22px;
+    margin-bottom: 15px;
+}
+.ab_text p {
+    font-size: 16px;
+}
+/* message_us start */
+.message_text h1 {
+    font-size: 26px;
+}
+.message_item img {
+    width: 65px;
+    transition: 0.2s;
+}
+.message_item img:hover {
+    width: 60px;
+}
+.message_item h3 {
+    font-size: 13px;
+    font-weight: 600;
+}
+/* contact_us_google_map start*/
+.google_map h1 {
+    font-size: 25px;
+}
+.google_map iframe {
+    height: 310px;
+}
+/* contact_us_google_map start*/
+.google_map h1 {
+    font-size: 26px;
+}
+.google_map iframe {
+    height: 310px;
+}
+/* islamic_content start */
+.islamic_content1 h1 {
+    font-size: 22px;
+}
+.islamic_content_text h3 {
+    font-size: 21px;
+    margin: 25px 0 10px;
+}
+.islamic_content_text p {
+    font-size: 15px;
+    margin: 0;
+}
+/* banner_bottom start */
+.banner_bottom_text {
+    text-align: center;
+}
+.banner_bottom_text h1 {
+    font-size: 28px;
+    margin: 0 0 15px;
+}
+.banner_bottom_text p {
+    font-size: 15px;
+}
+.banner_bottom_text {
+    margin: 0 0 30px;
+}
+.banner_bottom_img {
+    text-align: center;
+}
+.banner_bottom_img img {
+    width: 260px;
+}
+/* social_marketing start */
+.social_marketing_item_h1 {
+    margin: 0 0 5px;
+}
+.social_marketing_item {
+    padding: 10px 15px;
+    margin: 20px 0 0;
+}
+.social_marketing_item_h2 {
+    margin: 10px 0 0px;
+}
+.social_marketing_item_h1, .social_marketing_item_h2, .social_marketing_item_h3 {
+    font-size: 20px;
+    font-weight: 600;
+}
+.social_marketing_item ul {
+    margin: 0 0 5px;
+}
+.social_marketing_item ul li {
+    font-size: 15px;
+}
+.social_marketing_item_h3_p {
+    font-size: 15px;
+}
+/* process_flow start */
+.process_flow_item {
+    height: 270px;
+}
+.process_flow_item i {
+    font-size: 40px;
+}
+.process_flow_item h3 {
+    font-size: 21px;
+    margin: 8px 0 6px;
+}
+.process_flow_item p {
+    font-size: 15px;
+}
+/* graphic start */
+.c_graphic_item {
+    height: auto;
+}
+.c_graphic_design_process_flow_item {
+    height: 265px;
+}
+/* video_production start */
+/* bottom_banner */
+.c_video_production_banner_bottom_text h1{
+    margin: 0 0 15px;
+}
+.c_video_production_banner_bottom_img img {
+    margin: 0;
+}
+/* video_production_services */
+.c_video_production_item{
+  height: 480px;
+}
+/* ecommerce_web start*/
+/* ecommerce_web_banner_bottom*/
+.c_ecommerce_web_banner_bottom_img img {
+    margin: 5px 0 0;
+}
+/* web_design_service */
+.c_ecommerce_web_item{
+  height: auto;
+}
+/* custom_website start */
+/* custom_web_service */
+.c_custom_web_item{
+    height: 475px;
+}
+/* custom_web_process_flow */
+.c_custom_web_workflow_item{
+  height: 255px;
+}
+/* website_hosting start */
+/* website_hosting_banner_bottom */
+.c_website_hosting_banner_bottom_img img {
+    margin: 0;
+}
+/* web_hosting_process_flow */
+.c_web_hosting_process_flow_item{
+    height: 250px;
+}
+/* brand_strategy start */
+.c_brand_clarity_process_flow_item{
+    height: 220px;
+}
+/* social_media_package start */
+.c_social_media_package_banner_bottom_img img{
+    width: 270px !important;
+}
+/* creative_services start */
+.c_creative_services_item{
+  height: 570px;
+}
+.creative_services_box {
+    font-size: 18px;
+}
+.c_creative_services_item ul li {
+    margin: 0 0 9px;
+}
+/* motion_graphics start */
+/* banner_top */
+.c_motion_graphics_banner_bottom_img img{
+    width: 260px !important;
+}
+/* creative_motion_graphics */
+.motion_graphics_service_heading h2 {
+    font-size: 28px;
+}
+.motion_graphics_service_heading p {
+    font-size: 15px;
+}
+.creative_motion_graphics_text{
+  text-align: center;
+  margin: 0;
+}
+.creative_motion_graphics_text h3 {
+    font-size: 22px;
+}
+.creative_motion_graphics_text p {
+    font-size: 15px;
+}
+.creative_motion_graphics_video {
+    text-align: center;
+    height: 230px;
+    margin: 10px 0 0;
+}
+.creative_motion_graphics_video iframe {
+}
+/* motion_graphics_peocess_flow */
+.c_motion_graphics_process_flow_item{
+    height: 235px;
+}
+/* motion_graphics end */
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+   /* body start */
+body {
+    padding-top: 74px;
+}  
+    /* header start */
+.logo img {
+    width: 250px !important;
+}
+.menu {
+    text-align: end;
+}
+.submenu {
+    width: 108%;
+    left: -21px;
+    top: 45% !important;
+}
+.submenu_2{
+    top: 60% !important;
+}
+.submenu_3{
+    top: 90% !important;
+}
+.menu>ul>li {
+    margin-bottom: 10px;
+}
+.submenuitems h3 {
+    font-size: 16px;
+}
+.submenuitems ul li {
+    font-size: 15px;
+}
+.submenuitems{
+  flex-basis: 50%;
+}
+.submenuitems ul{
+    padding-left: 0;
+}
+.navbar-toggler:focus {
+    box-shadow: none; 
+}
+/* banner start */
+.banner{
+    text-align: center;
+    padding: 65px 0;
+}
+.b_text h1 {
+    font-size: 33px;
+    margin: 0px 0px 20px 0px;
+    line-height: 60px;
+}
+.b_text p {
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+.b_form {
+    font-size: 13px;
+    padding: 10px 6px;
+    text-align: center;
+}
+.red_btn {
+    font-size: 13px !important;
+    padding: 10px 5px !important;
+}
+.b_video iframe {
+    width: 75%;
+    height: 240px;
+    margin-top: 45px;
+}
+/* award_winning start */
+.box_btn{
+    margin-left: 0;
+}
+.box_btn1 {
+    padding: 13px 40px !important;
+}
+.blue_btn {
+    padding: 13px 13px !important;
+    margin: 0 0 0 10px;
+}
+/* testimonial start */
+.testimonial_row1 h2 {
+    font-size: 24px;
+}
+.testimonial_video iframe {
+    width: 480px;
+    height: 275px;
+}
+.r_item3{
+    display: none;
+}
+.r_item2{
+    display: none;
+}
+.review_item {
+    padding: 20px;
+}
+.review_item img {
+    width: 70px;
+}
+.c_ind {
+    bottom: -40px !important;
+}
+.btn_carosoul .blue_btn{
+    padding: 12px 13px !important;
+    margin-left: 5px;
+}
+/* our_expertise */
+.expertise_info {
+    padding: 10px 10px 30px;
+}
+.ei_links a {
+    font-size: 13px;
+}
+.ei_a2 {
+    margin-right: 30px;
+}
+.expertise_video {
+    height: 123%;
+    margin-top: 20px;
+}
+.btn_text {
+    margin-top: 35px;
+}
+/* counter start */
+.counter h1 {
+    font-size: 40px;
+    margin: 35px 0 15px;
+}
+.counter p{
+    font-size: 16px;
+}
+/* holinex-advantage start */
+.advantage_item1 {
+    margin: 0;
+    text-align: center;
+}
+.advantage_item1 h3 {
+    font-size: 21px;
+    text-align: center;
+}
+.advantage_item1 h2 {
+    font-size: 30px;
+    text-align: center;
+    margin: 12px 0;
+}
+.holinex_advantage_divider {
+    justify-content: center;
+}
+.holinex_advantage_line {
+    width: 50px;
+}
+.h_advantage h5 {
+    margin: 20px 0 10px;
+}
+.advantage_item1 p {
+    font-size: 17px;
+    text-align: center;
+}
+.box1, .box2, .box3, .box4 {
+    margin: 25px 0 0;
+}
+.advantage_item4, .advantage_item5{
+    margin: 25px 0 0;
+}
+/* footer_top start */
+.f_item{
+    text-align: center;
+    margin-top: 20px;
+}
+.f_item a i {
+    margin: 0 5px;
+}
+.f_item p, .f_item p a {
+    font-size: 14px;
+}
+.f_item p {
+    margin-bottom: 5px;
+}
+/* certified_expert start */
+.certified_carosoul {
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+/* offered_services start */
+.offered_services {
+    padding: 10px 0 10px;
+}
+.services_item a i {
+    font-size: 15px;
+    margin-right: 7px;
+}
+.services_item a p {
+    font-size: 15px;
+}
+/* footer start */
+.bottom_footer p{
+    font-size: 13px;
+}
+/* team_member_banner_top start */
+.top_banner1 h1{
+    font-size: 33px;
+}
+.top_banner1 img {
+    height: 170px;
+}
+/* team_member start */
+.c_padding {
+    padding: 55px 0 65px;
+}
+.team_text h1{
+    font-size: 25px;
+    line-height: 35px;
+}
+.team_text h6 {
+    font-size: 19px;
+    margin: 0 0 10px !important;
+}
+.team_text p {
+    font-size: 15px;
+    margin: 0 0 20px;
+}
+.about_team h2 {
+    font-size: 24px;
+    margin: 0 0 10px;
+}
+.about_team1, .about_team2, .tech_expert {
+    margin: 0 0 40px;
+}
+.row .col-lg-4:last-child .tech_expert {
+    margin: 0;
+}
+.about_team1 h5, .about_team2 h5, .tech_expert h5 {
+    font-size: 21px;
+}
+.about_team1 h6, .about_team2 h6, .tech_expert h6 {
+    margin: 0 0 10px;
+}
+.about_team1 p, .about_team2 p, .tech_expert p {
+    font-size: 15px;
+}
+/* about_banner */
+.a_banner {
+    padding: 40px 0 50px;
+}
+.ab_img {
+    margin-top: 30px;
+}
+.ab_img img {
+    width: 45%;
+}
+.ab_img h1 {
+    font-size: 35px;
+}
+.ab_text {
+    text-align: center;
+}
+.ab_text h1 {
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+.ab_text p {
+    font-size: 21px;
+}
+/* message_us start */
+.message_text h1 {
+    font-size: 28px;
+}
+.message_item img {
+    width: 115px;
+    transition: 0.2s;
+}
+.message_item img:hover {
+    width: 110px;
+}
+.message_item h3 {
+    font-size: 18px;
+    font-weight: 600;
+}
+/* contact_us_google_map start*/
+.google_map h1 {
+    font-size: 28px;
+}
+.google_map iframe {
+    height: 310px;
+}
+/* islamic_content start */
+.islamic_content1 h1 {
+    font-size: 28px;
+}
+.islamic_content_text h3 {
+    font-size: 21px;
+    margin: 30px 0 15px;
+}
+.islamic_content_text p {
+    font-size: 15px;
+    margin: 0;
+}
+/* banner_bottom start */
+.banner_bottom_text {
+    text-align: center;
+}
+.banner_bottom_text h1 {
+    font-size: 33px;
+    margin: 0 0 20px;
+}
+.banner_bottom_text p {
+    font-size: 15px;
+}
+.banner_bottom_text {
+    margin: 0 0 40px;
+}
+.banner_bottom_img {
+    text-align: center;
+}
+.banner_bottom_img img {
+    width: 350px;
+}
+/* social_marketing start */
+.social_marketing_item_h2 {
+    margin: 15px 0 0px;
+}
+.social_marketing_item_h1, .social_marketing_item_h2, .social_marketing_item_h3 {
+    font-size: 22px;
+    font-weight: 600;
+}
+.c_banner_bottom_img img {
+    width: 380px;
+}
+/* brand_process_flow */
+.c_brand_process_flow_item{
+  height: 220px;
+}
+.c_graphic_item {
+    height: auto;
+}
+/* graphic_design start */
+.c_graphic_design_process_flow_item {
+    height: 215px;
+}
+/* video_production start */
+/* bottom_banner */
+.c_video_production_banner_bottom_text h1{
+    margin: 0 0 15px;
+}
+.c_video_production_banner_bottom_img img {
+    margin: 0;
+}
+/* video_production_services */
+.c_video_production_item{
+  height: 545px;
+}
+/* ecommerce_web start*/
+/* ecommerce_web_banner_bottom*/
+.c_ecommerce_web_banner_bottom_img img {
+    margin: 5px 0 0;
+}
+/* web_design_service */
+.c_ecommerce_web_item{
+  height: auto;
+}
+/* web_workflow */
+.c_ecommerce_web_workflow_item{
+  height: 230px;
+}
+/* website_hosting start */
+/* website_hosting_banner_bottom */
+.c_website_hosting_banner_bottom_img img {
+    margin: 0;
+}
+/* web_hosting_process_flow */
+.c_web_hosting_process_flow_item{
+    height: 210px;
+}
+/* brand_strategy start */
+.c_brand_clarity_process_flow_item{
+    height: 200px;
+}
+/* social_media_package start */
+.c_social_media_package_banner_bottom_img img{
+    width: 420px !important;
+}
+/* creative_services start */
+.c_creative_services_item{
+  height: 525px;
+}
+.c_creative_services_item ul li {
+    margin: 0 0 15px;
+}
+/* motion_graphics start */
+/* banner_top */
+.c_motion_graphics_banner_bottom_img img{
+    width: 400px !important;
+}
+/* creative_motion_graphics */
+.motion_graphics_service_heading h2 {
+    font-size: 28px;
+}
+.motion_graphics_service_heading p {
+    font-size: 15px;
+}
+.creative_motion_graphics_text{
+  text-align: center;
+  margin: 0;
+}
+.creative_motion_graphics_text h3 {
+    font-size: 24px;
+}
+.creative_motion_graphics_text p {
+    font-size: 15px;
+}
+.creative_motion_graphics_video {
+    text-align: center;
+    height: 310px;
+    margin: 10px 0 0;
+}
+.creative_motion_graphics_video iframe {
+    width: 440px;
+}
+/* motion_graphics_peocess_flow */
+.c_motion_graphics_process_flow_item{
+    height: 195px;
+}
+.process_flow_item p{
+    font-size: 15px;
+}
+/* motion_graphics end */
+/* video_making start */
+/* banner_bottom */
+.c_video_making_banner_bottom_img img{
+   width: 450px !important;
+}
+/* process_flow */
+.c_video_making_process_flow_item {
+    height: 210px;
+}
+/* video_making end */
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+   /* body start */
+body {
+    padding-top: 75px;
+}    
+    /* header start */
+.logo img {
+    width: 260px !important;
+}
+.menu {
+    text-align: end;
+}
+.submenu {
+    top: 46% !important;
+}
+.submenu_2{
+    top: 63% !important;
+}
+.submenu_3{
+    top: 94% !important;
+}
+.menu>ul>li {
+    margin-bottom: 10px;
+}
+.submenu {
+    width: 109%;
+    left: -33px;
+}
+.submenuitems h3 {
+    font-size: 16px;
+}
+.submenuitems ul li {
+    font-size: 15px;
+}
+.navbar-toggler:focus {
+    box-shadow: none; 
+}
+/* banner start */
+.banner{
+    text-align: center;
+    padding: 65px 0;
+}
+.b_text h1 {
+    font-size: 33px;
+    margin: 0px 0px 20px 0px;
+    line-height: 60px;
+}
+.b_text p {
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+.b_form {
+    font-size: 13px;
+    padding: 10px 6px;
+    text-align: center;
+}
+.red_btn {
+    font-size: 13px !important;
+    padding: 10px 5px !important;
+}
+.b_video iframe {
+    width: 60%;
+    height: 250px;
+    margin-top: 55px;
+}
+/* testimonial start */
+.testimonial_row1 h2 {
+    font-size: 23px;
+}
+.r_item3{
+    display: none;
+}
+.review_item {
+    padding: 20px;
+}
+.review_item img {
+    width: 70px;
+}
+.c_ind {
+    bottom: -40px !important;
+}
+/* our_expertise */
+.expertise_info {
+    padding: 10px 10px 30px;
+}
+.ei_links a {
+    font-size: 13px;
+}
+.ei_a2 {
+    margin-right: 30px;
+}
+/* counter start */
+.counter h1 {
+    font-size: 36px;
+}
+.counter p{
+    font-size: 15px;
+}
+/* holinex-advantage start */
+.advantage_item1 {
+    margin: 0;
+    text-align: center;
+}
+.advantage_item1 h3 {
+    text-align: center;
+}
+.advantage_item1 h2 {
+    text-align: center;
+}
+.holinex_advantage_divider {
+    justify-content: center;
+}
+.holinex_advantage_line {
+    width: 50px;
+}
+.advantage_item1 p {
+    text-align: center;
+}
+.box1, .box2, .box3, .box4 {
+    margin: 25px 0 0;
+}
+.advantage_item4, .advantage_item5{
+    margin: 25px 0 0;
+}
+/* offered_services start */
+.services_item a i {
+    font-size: 22px;
+    margin-right: 10px;
+}
+.services_item a p {
+    font-size: 18px;
+}
+/* footer_top start */
+.f_item a i {
+    margin: 0 5px;
+}
+.f_item p, .f_item p a {
+    font-size: 14px;
+}
+.f_item p {
+    margin-bottom: 8px;
+}
+/* footer start */
+.bottom_footer p{
+    font-size: 14px;
+}
+/* team_member_banner_top start */
+.top_banner1 h1{
+    font-size: 36px;
+}
+/* team_member start */
+.team_text h1{
+    font-size: 28px;
+    line-height: 40px;
+}
+.about_team h2 {
+    font-size: 26px;
+}
+.about_team1, .about_team2, .tech_expert {
+    margin: 0 0 40px;
+}
+.row .col-lg-4:last-child .tech_expert {
+    margin: 0;
+}
+.about_team1 h5, .about_team2 h5, .tech_expert h5 {
+    font-size: 21px;
+}
+.about_team1 h6, .about_team2 h6, .tech_expert h6 {
+    margin: 0 0 10px;
+}
+/* islamic_content start */
+.islamic_content1 h1 {
+    font-size: 33px;
+}
+/* contact_us start */
+/* about_banner */
+.a_banner {
+    padding: 50px 0 50px;
+}
+.ab_img {
+    margin-top: 30px;
+}
+.ab_img img {
+    width: 45%;
+}
+.ab_img h1 {
+    font-size: 35px;
+}
+.ab_text {
+    text-align: center;
+}
+.ab_text h1 {
+    margin-bottom: 25px;
+}
+.ab_text p {
+    font-size: 22px;
+}
+/* message_us */
+.message_text h1 {
+    font-size: 31px;
+}
+.message_item {
+    margin: 10px 0 0;
+}
+.message_item img {
+    width: 130px;
+    transition: 0.2s;
+}
+.message_item img:hover{
+    width: 127px;
+}
+.message_item h3 {
+    font-size: 20px;
+}
+/* contact_us_google_map start*/
+.google_map h1 {
+    font-size: 31px;
+}
+.google_map iframe {
+    height: 350px;
+}
+/* contact_us end */
+/* banner_bottom start */
+.banner_bottom_text {
+    text-align: center;
+}
+.banner_bottom_text h1 {
+    font-size: 41px;
+    margin: 0 0 20px;
+}
+.banner_bottom_text {
+    margin: 0 0 40px;
+}
+.banner_bottom_img {
+    text-align: center;
+}
+.banner_bottom_img img {
+    width: 430px;
+}
+/* social_marketing start */
+.social_marketing_item_h2 {
+    margin: 15px 0 0px;
+}
+/*social_media_brand_management start*/
+.c_banner_bottom_img img {
+    width: 470px;
+}
+/* brand_process_flow */
+.c_brand_process_flow_item{
+  height: 210px;
+}
+/* graphic_design start */
+.c_graphic_item {
+    height: auto;
+}
+.c_graphic_design_process_flow_item {
+    height: 200px;
+}
+/* video_production_services */
+.c_video_production_item{
+  height: 625px;
+}
+/* ecommerce_web start*/
+/* ecommerce_web_banner_bottom*/
+.c_ecommerce_web_banner_bottom_img img {
+    margin: 15px 0 0;
+}
+/* web_design_service */
+.c_ecommerce_web_item{
+  height: auto;
+}
+/* web_workflow */
+.c_ecommerce_web_workflow_item{
+  height: 210px;
+}
+/* website_hosting start */
+/* website_hosting_banner_bottom */
+.c_website_hosting_banner_bottom_img img {
+    margin: 0;
+}
+/* web_hosting_process_flow */
+.c_web_hosting_process_flow_item{
+    height: 200px;
+}
+/* social_media_package start */
+.c_social_media_package_banner_bottom_img img{
+    width: 520px !important;
+}
+/* creative_services start */
+.c_creative_services_item{
+  height: 520px;
+}
+.c_creative_services_item ul li {
+    margin: 0 0 15px;
+}
+/* motion_graphics start */
+/* banner_top */
+.c_motion_graphics_banner_bottom_text h1{
+    font-size: 36px;
+}
+.c_motion_graphics_banner_bottom_img img{
+    width: 500px !important;
+}
+/* creative_motion_graphics */
+.creative_motion_graphics_text{
+  text-align: center;
+  margin: 0;
+}
+.creative_motion_graphics_text h3 {
+    font-size: 28px;
+}
+.creative_motion_graphics_video {
+    text-align: center;
+    height: 310px;
+    margin: 20px 0 0;
+}
+.creative_motion_graphics_video iframe {
+    width: 530px;
+}
+/* motion_graphics_peocess_flow */
+.c_motion_graphics_process_flow_item{
+    height: 200px;
+}
+/* motion_graphics end */
+/* video_making start */
+/* banner_bottom */
+.c_video_making_banner_bottom_img img{
+   width: 550px !important;
+}
+/* process_flow */
+.c_video_making_process_flow_item {
+    height: 200px;
+}
+/* video_making end */
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+   /* body start */
+body {
+    padding-top: 76px;
+}
+    /* header start */
+.logo img {
+    width: 260px !important;
+}
+.menu>ul>li a {
+    font-size: 15px;
+    padding: 0 11px;
+}
+.submenu_2 {
+    left: 45%;
+}
+    /* banner start */
+.b_text h1 {
+    font-size: 27px;
+    margin: 0px 0px 20px 0px;
+    line-height: 60px;
+}
+.b_text p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.b_form {
+    font-size: 13px;
+    padding: 10px 6px;
+    text-align: center;
+}
+.red_btn {
+    font-size: 13px !important;
+    padding: 10px 5px !important;
+}
+.b_video iframe {
+    height: 250px;
+    margin-top: 30px;
+}
+/* award_winning start */
+.box_btn{
+    margin-left: 50px;
+}
+.box_btn1{
+    margin: 5px;
+}
+.blue_btn {
+    margin: 0;
+    margin: 5px;
+}
+/* testimonial start */
+.review_item {
+    padding: 20px;
+}
+.review_item img {
+    width: 70px;
+}
+.c_ind {
+    bottom: -40px !important;
+}
+.btn_carosoul .blue_btn{
+    margin-left: 5px;
+}
+/* our_expertise */
+.expertise_info {
+    padding: 10px 10px 40px;
+}
+.ei_links a {
+    font-size: 15px;
+}
+.ei_a2 {
+    margin-right: 95px;
+}
+/* counter start */
+.counter h1 {
+    font-size: 36px;
+}
+.counter p{
+    font-size: 15px;
+}
+/* holinex-advantage start */
+.box1, .box2 {
+    margin: 62px 0 0;
+}
+/* offered_services start */
+.services_item a i {
+    font-size: 18px;
+    margin-right: 10px;
+}
+.services_item a p {
+    font-size: 16px;
+}
+/* latest_blog start */
+.latest_blog_item{
+    height: 445px;
+}
+/* footer_top start */
+.f_item a i {
+    margin: 0 5px;
+}
+.f_item p {
+    margin-bottom: 5px;
+}
+/* islamic_content start */
+.islamic_content_text h3 {
+    margin: 0px 0 20px;
+}
+.islamic_content_img img {
+    margin: 90px 0 0;
+}
+/* team_member_banner_top start */
+.top_banner1 h1{
+    font-size: 41px;
+}
+/* team_member start */
+.team_text h1{
+    font-size: 28px;
+}
+.about_team1 h5, .about_team2 h5, .tech_expert h5 {
+    font-size: 21px;
+}
+/* contact_us_banner */
+.a_banner {
+    padding: 50px 0 80px;
+}
+.ab_img img {
+    width: 60%;
+}
+.ab_img h1 {
+    font-size: 35px;
+}
+.ab_text p {
+    font-size: 22px;
+}
+/* message_us start */
+.message_item img {
+    width: 160px;
+}
+.message_item img:hover{
+    width: 157px;
+}
+/* banner_bottom start */
+.banner_bottom_text h1 {
+    font-size: 36px;
+    margin: 0 0 20px;
+}
+/* social_marketing start */
+.social_marketing_item_h1 {
+    margin: 0 0 10px;
+}
+.social_marketing_item {
+    padding: 15px 15px;
+    margin: 25px 0 0;
+}
+.social_marketing_item_h2 {
+    margin: 10px 0 0px;
+}
+.social_marketing_item_h1, .social_marketing_item_h2, .social_marketing_item_h3 {
+    font-size: 21px;
+    font-weight: 600;
+}
+.social_marketing_item ul {
+    margin: 0 0 5px;
+}
+/* process_flow start */
+.process_flow_item {
+    height: 295px;
+}
+/*social_media_brand_management start*/
+.c_banner_bottom_text h1 {
+    margin: 0 0 25px;
+}
+.c_banner_bottom_img img {
+    margin: 65px 0 0;
+}
+/* video_production start */
+/* bottom_banner */
+.c_video_production_banner_bottom_text h1{
+    margin: 0 0 15px;
+}
+.c_video_production_banner_bottom_img img {
+    margin: 70px 0 0;
+}
+/* video_production_services */
+.c_video_production_item{
+  height: 535px;
+}
+/* ecommerce_web start*/
+/* ecommerce_web_banner_bottom*/
+.c_ecommerce_web_banner_bottom_text h1{
+  font-size: 33px;
+}
+.c_ecommerce_web_banner_bottom_img img {
+    margin: 125px 0 0;
+}
+/* web_design_service */
+.c_ecommerce_web_item{
+  height: 545px;
+}
+/* web_workflow */
+.c_ecommerce_web_workflow_item{
+  height: 305px;
+}
+/* custom_web_process_flow */
+.c_custom_web_workflow_item{
+  height: 290px;
+}
+/* website_hosting start */
+/* website_hosting_banner_bottom */
+.c_website_hosting_banner_bottom_img img {
+    margin: 70px 0 0;
+}
+/* social_media_package start */
+.c_social_media_package_banner_bottom_text h1{
+  margin: 0 0 30px;
+}
+.c_social_media_package_banner_bottom_img img{
+    margin: 70px 0 0;
+}
+/* creative_services start */
+.c_creative_services_item{
+  height: 480px;
+}
+/* creative_services start */
+.c_creative_services_item{
+  height: 590px;
+}
+.creative_services_box {
+    font-size: 20px;
+}
+/* motion_graphics start */
+/* banner_top */
+.c_motion_graphics_banner_bottom_img img{
+    margin: 75px 0 0;
+}
+/* creative_motion_graphics */
+.creative_motion_graphics_text{
+  margin: 40px 0 0;
+}
+.creative_motion_graphics_video {
+    height: 290px;
+}
+/* motion_graphics_peocess_flow */
+.c_motion_graphics_process_flow_item{
+    height: 270px;
+}
+/* motion_graphics end */
+/* video_making start */
+/* banner_bottom */
+.c_video_making_banner_bottom_text h1{
+   margin: 0 0 20px;
+}
+.c_video_making_banner_bottom_img{
+   margin: 100px 0 0;
+}
+/* video_making end */
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    /* header start */
+.submenu_2 {
+    left: 48%;
+}
+    /* banner start */
+.b_text h1 {
+    font-size: 33px;
+    margin: 0px 0px 25px 0px;
+    line-height: 65px;
+}
+.b_text p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+    /* banner_video */
+.b_video {
+    margin: 15px 0 0;
+}
+/* award_winning start */
+.box_btn{
+    margin-left: 50px;
+}
+.box_btn1{
+    margin: 5px;
+}
+.blue_btn {
+    margin: 0;
+    margin: 5px;
+}
+/* holinex-advantage start */
+.box1, .box2 {
+    margin: 34px 0 0;
+}
+/* latest_blog start */
+.latest_blog_item{
+    height: 455px;
+}
+/* islamic_content start */
+.islamic_content_text h3 {
+    margin: 0px 0 20px;
+}
+/* banner_bottom start */
+.banner_bottom_text h1 {
+    font-size: 41px;
+    margin: 35px 0 30px;
+}
+/* social_marketing start */
+.social_marketing_item_h1 {
+    margin: 0 0 10px;
+}
+/* process_flow start */
+.process_flow_item {
+    height: 270px;
+}
+/*social_media_brand_management start*/
+.c_banner_bottom_text h1 {
+    margin: 0 0 25px;
+}
+.c_banner_bottom_img img {
+    margin: 20px 0 0;
+}
+/* video_production start */
+/* bottom_banner */
+.c_video_production_banner_bottom_text h1{
+    margin: 0 0 20px;
+}
+.c_video_production_banner_bottom_img img {
+    margin: 40px 0 0;
+}
+/* video_production_services */
+.c_video_production_item{
+  height: 535px;
+}
+/* ecommerce_web start*/
+/* ecommerce_web_banner_bottom*/
+.c_ecommerce_web_banner_bottom_img img {
+    margin: 125px 0 0;
+}
+/* web_design_service */
+.c_ecommerce_web_item{
+  height: 545px;
+}
+/* web_workflow */
+.c_ecommerce_web_workflow_item{
+  height: 280px;
+}
+/* custom_web_process_flow */
+.c_custom_web_workflow_item{
+  height: 250px;
+}
+/* website_hosting start */
+/* website_hosting_banner_bottom */
+.c_website_hosting_banner_bottom_text h1{
+  margin: 0 0 30px;
+}
+.c_website_hosting_banner_bottom_img img {
+    margin: 40px 0 0;
+}
+/* social_media_package start */
+.c_social_media_package_banner_bottom_text h1{
+  margin: 0 0 30px;
+}
+.c_social_media_package_banner_bottom_img img{
+    margin: 40px 0 0;
+}
+/* creative_services start */
+.c_creative_services_item{
+  height: 580px;
+}
+/* motion_graphics start */
+/* banner_top */
+.c_motion_graphics_banner_bottom_text h1{
+    margin: 0 0 30px;
+}
+/* creative_motion_graphics */
+.creative_motion_graphics_text{
+  margin: 70px 0 0;
+}
+.creative_motion_graphics_video {
+    height: 350px;
+}
+/* motion_graphics_peocess_flow */
+.c_motion_graphics_process_flow_item{
+    height: 230px;
+}
+/* motion_graphics end */
+/* video_making start */
+/* banner_bottom */
+.c_video_making_banner_bottom_text h1{
+   margin: 0 0 20px;
+}
+.c_video_making_banner_bottom_img{
+   margin: 35px 0 0;
+}
+/* video_making end */
+/* contact_us start */
+/* message_us */
+.message_item img {
+    width: 180px;
+    transition: 0.2s;
+}
+.message_item img:hover{
+    width: 170px;
+}
+}
+
+/* Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    /* banner */
+.b_video {
+    margin: 25px 0 0;
+}
+    /* about_banner */
+.a_banner {
+    padding: 50px 0 80px;
+}
+/* social_marketing start */
+.social_marketing_item_h1 {
+    margin: 0 0 10px;
+}
+/*social_media_brand_management start*/
+.c_banner_bottom_text h1 {
+    margin: 20px 0 30px;
+}
+/* ecommerce_web start*/
+/* ecommerce_web_banner_bottom*/
+.c_ecommerce_web_banner_bottom_img img {
+    margin: 85px 0 0;
+}
+/* motion_graphics start */
+/* creative_motion_graphics */
+.creative_motion_graphics_text{
+  margin: 90px 0 0;
+}
+/* motion_graphics end */
+/* video_making start */
+/* process_flow */
+.c_video_making_process_flow_item{
+    height: 250px;
+}
+/* video_making end */
+}
